@@ -1,7 +1,15 @@
 Trying to connect GitHub :)!
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 conneceted
 =======
 Connected to github!
 >>>>>>> origin/master
+=======
+<<<<<<< Updated upstream
+Connected to github!
+=======
+Connected to Github!
+>>>>>>> Stashed changes
+>>>>>>> Stashed changes
