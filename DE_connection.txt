@@ -1,3 +1,7 @@
 Trying to connect GitHub :)!
 
+<<<<<<< HEAD
 conneceted
+=======
+Connected to github!
+>>>>>>> origin/master
